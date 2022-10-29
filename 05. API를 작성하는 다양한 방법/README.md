@@ -2,7 +2,7 @@
 
 # 프로젝트 설정
 
-이번 장에서 실습할 프로젝트는 [**API작성방법**](https://github.com/Alisherka7/Spring-Boot/tree/main/05.%20API%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95) 링크로 다운받아서 실행하시면 됍니다. 이번에는 groupId는 ‘com.springboot’로 설정하고 name과 artifactId는 ‘api’로 설정합니다.
+이번 장에서 실습할 프로젝트는 [**API작성방법**](https://github.com/Alisherka7/Spring-Boot/tree/main/05.%20API%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95) 링크로 다운받아서 실행하시면 됍니다. 이번에는 ```groupId```는 ```‘com.springboot’```로 설정하고 ```name```과 ```artifactId```는 ```‘api’```로 설정합니다.
 
 # GET Api 만들기
 
